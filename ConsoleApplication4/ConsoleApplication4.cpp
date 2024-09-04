@@ -8,5 +8,6 @@ int main()
     std::cout << "Helloworld";
     std::cout << "Hell";
     std::cout << "Negr";
+    std::cout << "nEGRITOS";
 }
 
